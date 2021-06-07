@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
+// TODO: 2021/6/7 新版本未学习
 @MapperScan("com.wyh.mapper")
 @EnableTransactionManagement
 @Configuration
